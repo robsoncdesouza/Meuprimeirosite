@@ -4,7 +4,7 @@
  https://robsoncdesouza.github.io/Meuprimeirosite/
 
  ## CSS inline
- https://robsoncdesouza.github.io/Meuprimeirosite/cssinternoeexterno/
+ https://robsoncdesouza.github.io/Meuprimeirosite/cssinternoeexterno/indexinline.html/
 
 
 
